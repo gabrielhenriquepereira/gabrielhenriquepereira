@@ -1,16 +1,19 @@
-## Hi there 👋
+[![MasterHead](https://www.specfictionshop.com/cdn/shop/products/CONNORMAIN_2000x.jpg?v=1669404438)](https://github.com/gabrielhenriquepereira)
 
-<!--
-**gabrielhenriquepereira/gabrielhenriquepereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## E aí 👋
+## Estudande do IFTM Campus Patrocínio, no 2º ano de informática.
+gosto de aprender📙 e viajar,sou fascinado por história🏛️
+meu hoobie é assistir filmes(filmes bons)  e jogar🎮
 
-Here are some ideas to get you started:
+🎸recomendações de bandas: Beatles, Tear of Fears,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+aprendendo a vir um programador💻
+2025,2026,2027.
+
+
+
+
+
